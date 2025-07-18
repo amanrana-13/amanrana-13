@@ -19,8 +19,8 @@ This repository serves as my personal space to document my learning, showcase my
 
 ## Let's Connect!
 I'm always open to connecting with fellow developers and learning from new perspectives.
-* [LinkedIn Profile](YourLinkedInURL)
-* [LeetCode Profile (if applicable)](YourLeetCodeURL)
-* Email: your.email@example.com
+* [LinkedIn Profile](https://www.linkedin.com/in/aman-rana-11679b1b7/)
+* [LeetCode Profile](https://leetcode.com/u/AmanRana13/)
+* Email: amanrana1317@gmail.com
 
 I'll be pushing my progress regularly - follow along!
