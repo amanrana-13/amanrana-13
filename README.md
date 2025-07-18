@@ -6,12 +6,12 @@ I'm a passionate 2nd-year B.Tech Computer Science and Engineering student at NIT
 ## My Learning Journey & Skills
 I'm currently diving deep into:
 * **Data Structures and Algorithms (DSA) with C++:** Focusing on problem-solving and optimizing code efficiency.
-* **Web Development (HTML, CSS, JavaScript):** Building the foundational blocks of the web and exploring modern front-end and back-end frameworks. I'm particularly interested in [mention specific framework/library if you have one in mind, e.g., React, Node.js].
+* **Web Development (HTML, CSS, JavaScript):** Building the foundational blocks of the web and exploring modern front-end and back-end frameworks. 
 
 ## My Goals for 2025-2026
 I believe in setting ambitious yet achievable goals to guide my progress:
 * 🚀 Solve 300+ DSA problems on platforms like LeetCode to sharpen my algorithmic thinking.
-* 💡 Build 3+ full-stack projects, focusing on robust architecture and real-world applicability (e.g., a task management app with user authentication, an e-commerce platform).
+* 💡 Build 3+ full-stack projects, focusing on robust architecture and real-world applicability.
 * 💼 Secure a Summer 2026 Software Development Engineer (SDE) or Web Developer internship to gain practical industry experience.
 
 ## What You'll Find Here
