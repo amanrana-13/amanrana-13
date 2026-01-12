@@ -8,7 +8,7 @@ I'm currently diving deep into:
 * **Data Structures and Algorithms (DSA) with C++:** Focusing on problem-solving and optimizing code efficiency.
 * **Web Development (HTML, CSS, JavaScript):** Building the foundational blocks of the web and exploring modern front-end and back-end frameworks. 
 
-## My Goals for 2025-2026
+## My Goals for 2026-2027
 I believe in setting ambitious yet achievable goals to guide my progress:
 * 🚀 Solve 300+ DSA problems on platforms like LeetCode to sharpen my algorithmic thinking.
 * 💡 Build 3+ full-stack projects, focusing on robust architecture and real-world applicability.
