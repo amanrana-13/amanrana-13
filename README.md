@@ -1,25 +1,22 @@
-# Hi there , I'm Aman Rana!
+# Hi, I'm Aman Rana
 
-## About Me
-I'm a passionate 2nd-year B.Tech Computer Science and Engineering student at NIT Kurukshetra, constantly striving to learn and build impactful solutions. My journey in tech is driven by a curiosity for how things work and a desire to create user-friendly and efficient applications.
+2nd-year B.Tech CSE student at NIT Kurukshetra, building projects and solving problems while prepping for placements.
 
-## My Learning Journey & Skills
-I'm currently diving deep into:
-* **Data Structures and Algorithms (DSA) with C++:** Focusing on problem-solving and optimizing code efficiency.
-* **Web Development (HTML, CSS, JavaScript):** Building the foundational blocks of the web and exploring modern front-end and back-end frameworks. 
+## What I'm working on
+- **DSA:** 230+ problems solved on LeetCode (C++) — currently working through trees, graphs, and DP
+- **Web Dev:** HTML, CSS, JavaScript
 
-## My Goals for 2026-2027
-I believe in setting ambitious yet achievable goals to guide my progress:
-*  Solve 300+ DSA problems on platforms like LeetCode to sharpen my algorithmic thinking.
-*  Build 3+ full-stack projects, focusing on robust architecture and real-world applicability.
+## Projects
+- [Hostel 10 Portal](link) — HTML, CSS, JavaScript
+- [DSA Solutions](link) — organized C++ solutions by topic
 
-## What You'll Find Here
-This repository serves as my personal space to document my learning, showcase my progress, and share the projects I'm working on.
+## 2026 Goals
+- Cross 300+ LeetCode problems
+- Ship 1–2 more full-stack projects with real deployment
 
-## Let's Connect!
-I'm always open to connecting with fellow developers and learning from new perspectives.
-* [LinkedIn Profile](https://www.linkedin.com/in/aman-rana-11679b1b7/)
-* [LeetCode Profile](https://leetcode.com/u/AmanRana13/)
-* Email: amanrana1317@gmail.com
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/aman-rana-11679b1b7/)
+- [LeetCode](https://leetcode.com/u/AmanRana13/)
+- Email: amanrana1317@gmail.com
 
-I'll be pushing my progress regularly - follow along!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanrana-13&show_icons=true&theme=dark)
