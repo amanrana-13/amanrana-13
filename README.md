@@ -18,5 +18,3 @@
 - [LinkedIn](https://www.linkedin.com/in/aman-rana-11679b1b7/)
 - [LeetCode](https://leetcode.com/u/AmanRana13/)
 - Email: amanrana1317@gmail.com
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanrana-13&show_icons=true&theme=dark)
