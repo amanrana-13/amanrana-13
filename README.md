@@ -14,7 +14,7 @@ I believe in setting ambitious yet achievable goals to guide my progress:
 *  Build 3+ full-stack projects, focusing on robust architecture and real-world applicability.
 
 ## What You'll Find Here
-This repository serves as my personal space to document my learning, showcase my progress, and share the projects I'm working on. Expect regular updates and code pushes!
+This repository serves as my personal space to document my learning, showcase my progress, and share the projects I'm working on.
 
 ## Let's Connect!
 I'm always open to connecting with fellow developers and learning from new perspectives.
