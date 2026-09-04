@@ -1,9 +1,9 @@
 # Hi, I'm Aman Rana
 
-2nd-year B.Tech CSE student at NIT Kurukshetra, building projects and solving problems while prepping for placements.
+3rd-year B.Tech CSE student at NIT Kurukshetra, building projects and solving problems while prepping for placements.
 
 ## What I'm working on
-- **DSA:** 230+ problems solved on LeetCode (C++) — currently working through trees, graphs, and DP
+- **DSA:** 240+ problems solved on LeetCode (C++) — currently working through trees, graphs, and DP
 - **Web Dev:** HTML, CSS, JavaScript
 
 ## Projects
